@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @giovannigando
-- 👀 I’m interested in making real life solutions for daily tasks that deal with personal organization, learning, optimization, and other aspects that are not so intuitive for ordinary people. I really think that technology, computer programs, and creativity could make a huge difference. 
+- 👀 I’m interested in making real life solutions for daily tasks that deal with personal organization, learning, optimization, and other aspects that are not so intuitive for people. I really think that technology, computer programs, and creativity could make a huge difference. 
 
-- Normal English paragraphs Typing Speed --> 80 WPM (goal 110WPM) 
+- Normal English Typing Speed --> 80 WPM (goal 110WPM) 
 
-- At the moment I'm focusing on learning Web Development using HTML, CSS and Javascript. I have a few ideas to start working on for the following weeks. I know how to code simple Java and Python programs. Inside the repositories I don't have useful programs for you, because I didn't know about module programming and code organization to make my code readable in the future. Soon I'll upload projects relevant to Web Development, that will be readable and runnable. 
+- At the moment I'm focusing on learning Web Development using Java, and SQL. I've learned already HTML, CSS,  Javascript and control Front-End frameworks, but I'm more interested on creating Back-End systems. I know how to code complex Java programs and inside the repositories I'm uploading useful programs for you. Soon I'll be uploading projects relevant to Web Development, that will be readable and runnable. 
 
-- My goal is to [learn about design, code efficiency, database, and different programming languages] to enter into the world of VR or AR and push my capabilities to another level. 
+- My goal is to [learn about code efficiency, database, design and different programming languages] and in the future to enter into the world of VR or AR and push my capabilities to another level. 
 
-- 🌱 I’m currently learning Industrial Engineering, but I code as a hobby. 
-- 📫 I'll include an e-mail address later, after uploading the first projects.
-
+- 📫 My e-mail address is giovannigandov@hotmail.com, in case you want to use e-mail for feedback or other purposes.
